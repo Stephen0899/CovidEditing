@@ -43,5 +43,3 @@ I'm giving example training and inference commands in the following:
 ## ISSUES 
 
 > Make sure the input and output of the pretained classifier is consistant to the one you give in this code, e.g., input: value ranges and normalizations; output: # predicted classes and the attribute index of the desired attribtue should be correctly given.
-
-# xray2im
