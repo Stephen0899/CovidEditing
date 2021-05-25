@@ -4,7 +4,6 @@ model_Consolidation
 model_Edema
 model_Effusion
 grapsh/stylegan_v2/op/op_cpp.egg-info
-stylegan_v2
 xray
 20k_images
 model_Ca

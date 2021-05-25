@@ -1,0 +1,5 @@
+# ninja log v5
+2	18629	1618972358710247633	/home/diwenxu2/xray_latent2im/graphs/stylegan_v2/op/build/temp.linux-x86_64-3.8/fused_bias_act_kernel.o	a6be2c2aaaa60087
+1	24715	1618972364501728136	/home/diwenxu2/xray_latent2im/graphs/stylegan_v2/op/build/temp.linux-x86_64-3.8/fused_bias_act.o	430078b08e37ba59
+1	21849	1618972388143689648	/home/diwenxu2/xray_latent2im/graphs/stylegan_v2/op/build/temp.linux-x86_64-3.8/upfirdn2d_kernel.o	8a79ac4833fc1aa7
+1	24262	1618972390500885218	/home/diwenxu2/xray_latent2im/graphs/stylegan_v2/op/build/temp.linux-x86_64-3.8/upfirdn2d.o	5e2de286f2d269cf
