@@ -40,6 +40,6 @@ I'm giving example training and inference commands in the following:
 >
 > --save_path_w  models_chexperts/Chexpert_Cardiomegaly_stylegan_v2_xray_linear_lr0.0001_l2_scene_w/model_w_1_walk_module.ckpt 
 
-## ISSUES 
+## Careful
 
-> Make sure the input and output of the pretained classifier is consistant to the one you give in this code, e.g., input: value ranges and normalizations; output: # predicted classes and the attribute index of the desired attribtue should be correctly given.
+>The classifier included in this repo is for Covid features is different from the classifier includec for other related chest illnesses (Cardiomegaly, Edema, etc.).
